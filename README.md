@@ -1,5 +1,4 @@
-# Capstone_Project
-Data Incubator Capstone Project
+# Data Incubator Capstone_Project
 
 This code for this project is contained within the 2 Jupyter Noteboks, Classifier_cuisine and recipes_clustering. The data is contained in ingredients5.csv, recipe3.csv and train.json.
 
